@@ -1,4 +1,4 @@
-### Hi there 😊
+### Hi, I'm Jessica 🙂
 
 - 🔭 I’m currently working on a Full-Stack React Application
 - 🌱 I’m currently learning React and AWS Amplify
