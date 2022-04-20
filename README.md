@@ -1,6 +1,6 @@
-### Hi there!
+<!-- ### Hi there! -->
 
-- 🙂 I'm Jessica
+- 🙂 Hi, I'm Jessica
 - 🔭 I’m currently working on a Full-Stack React Application
 - 🌱 I’m currently learning React and AWS Amplify
 - 👯 I’m looking to collaborate on React apps
