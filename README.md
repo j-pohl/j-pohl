@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on React apps
 - 📫 How to reach me: jessica.l.pohl@gmail.com
 - 💬 Fun fact: I am from Bavaria in Germany but don't like drinking beer! 👀 
-I make up for it with my love for cake though 🍰 😄
+I make up for it with my love for cake though 😄 🍰 
